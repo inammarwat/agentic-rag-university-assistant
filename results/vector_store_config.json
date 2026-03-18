@@ -1,0 +1,30 @@
+{
+  "vector_store_path": "d:\\agentic-rag-dissertation\\agentic-rag-university-assistant\\chroma_db",
+  "total_chunks": 831,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "source_types": {
+    "pdf": 297,
+    "web": 534
+  },
+  "top_sources": {
+    "Academic-policy_Академическая политика 2025-2026 (англ).pdf": 200,
+    "https://farabi.university/students/19?lang=en": 151,
+    "https://farabi.university/students/32?lang=en": 69,
+    "https://farabi.university/students/23?lang=en": 55,
+    "AI_Regulation_2024.pdf": 54,
+    "https://farabi.university/students/34?lang=en": 50,
+    "https://farabi.university/students/22?lang=en": 46,
+    "Booklet_KazNU_2025.pdf": 43,
+    "https://farabi.university/students/20?lang=en": 32,
+    "https://farabi.university/students/31?lang=en": 32
+  },
+  "creation_date": "2026-03-18 12:25:19",
+  "test_queries": [
+    "What is the academic policy regarding GPA requirements?",
+    "How can students use AI tools in their studies?",
+    "What are the admission requirements for international students?",
+    "Tell me about the university's mission and rankings",
+    "What services does the Keremet center provide?"
+  ]
+}

@@ -1,0 +1,32 @@
+# Core data processing
+pandas
+numpy
+
+# PDF processing
+pypdf
+pdfplumber  # Better for complex PDFs with tables
+
+# Web scraping
+beautifulsoup4
+requests
+langchain-community  # For WebBaseLoader
+langchain
+
+# Text splitting
+langchain-text-splitters
+
+# Vector Store & Embeddings (NEW for Notebook 2)
+langchain-chroma  # ChromaDB vector store
+langchain-huggingface  # For HuggingFace embeddings
+sentence-transformers  # Required for embedding models
+
+# Visualization (NEW for Notebook 2)
+matplotlib
+seaborn
+
+# Utilities
+python-dotenv
+tqdm  # For progress bars
+
+# Optional but helpful for debugging
+ipykernel
