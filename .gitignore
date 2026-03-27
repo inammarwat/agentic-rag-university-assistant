@@ -2,19 +2,25 @@
 __pycache__/
 *.py[oc]
 build/
+*.so
 dist/
 wheels/
 *.egg-info
 .env
+.env.local
 
 # Virtual environments
-.venv
+.venv/
 
-# Data files (large binaries)
-data/processed/*.pkl
-chroma_db/
-*.sqlite3
-*.bin
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Data files (large binaries)
+chroma_db/
+*.pkl
+*.sqlite3
+*.bin
+
+# Results (optional - commit if you want to share results)
+results/

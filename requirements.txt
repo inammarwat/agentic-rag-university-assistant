@@ -24,6 +24,12 @@ sentence-transformers  # Required for embedding models
 matplotlib
 seaborn
 
+# LLM Integration (NEW for Notebook 3)
+langchain-google-genai  # For Gemini integration
+google-generativeai  # Google's Gemini SDK
+groq
+langchain-groq
+
 # Utilities
 python-dotenv
 tqdm  # For progress bars
