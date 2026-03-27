@@ -1,8 +1,3 @@
-## 📝 **Complete README.md for Your GitHub Repository**
-
-Create a new file `README.md` in your project root with this content:
-
-```markdown
 # 🎓 Agentic RAG for University Information Assistance
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
